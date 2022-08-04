@@ -6,6 +6,12 @@
 @ Chloé Stévenne    Victor Mangeleer
 
 
+<img src="https://media.giphy.com/media/3o7TKz2eMXx7dn95FS/giphy.gif" width="40" height="40" />
+
+https://media.giphy.com/media/3o7TKz2eMXx7dn95FS/giphy.gif
+
+<iframe src="https://giphy.com/embed/3o7TKz2eMXx7dn95FS" width="40" height="40" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nasa-space-dna-3o7TKz2eMXx7dn95FS">via GIPHY</a></p>
+
 Hi ! 
 
 ---------------------- 
