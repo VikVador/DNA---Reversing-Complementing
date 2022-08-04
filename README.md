@@ -14,88 +14,34 @@ The purpose of this project is to simply reverse and complement DNA sequences in
 
 ![](/assets/illustration.png)
 
----------------------- 
-    INSTALLATION
-----------------------
+## Installation
 
-1 - In order to run the program, you have to first install python3 on your macbook ! In order to do so, 
-    you can simply download it on this webpage:
+- First of all, it is **required** to install Python on your computer. If it nos already done, you can do it using the following [link](https://www.python.org/downloads/).
 
-								https://www.python.org/downloads/
+- Furthermore, it is needed to install the *Bio* library using the following command:
 
+```
+pip3 install Bio
+```
 
-	and install it ! If does not work, you can refer to this tutorial:
+- Finally, it is needed to allow the *shell script* to run on your computer using the command:
 
-								https://www.dataquest.io/blog/installing-python-on-mac/
+```
+chmod 744 run.sh
+```
 
+(Do not forget to place yourself inside the root of the folder !)
 
-	Once it is done, you can check it works by writing 
-
-								python
-
-	in your terminal ! Nice ! You can exit this mode by writing
-
-								exit()
-
-	in the terminal !
-
-
-2 - Now, the next step is to simply install a library, to do so type
-				
-								pip install Bio
-
-
-
-3 - It is almost done, now you can move inside the root folder of the project using your good old "cd" command.
-
-
-
-4 - In order to run the program, you have to give it just once the permission to run ! Thus, you can run the
-    following command in your terminal
-
-								chmod 744 run_DNA_RC.sh
-
-
-------------------------------
-     RUNNING THE PROGRAM
-------------------------------
-
-All the former steps must be done only once ! That's nice isn't it ? :-)
-
+## Running the program
 
 From now on, if you want to do the reverse and complement of a DNA sequence in FASTA format, you just
 have to place your .txt file inside the INPUT folder. I already placed a file named "test_small.txt" and 
 "test_large.txt" such that you can see what the program is capable of ! Then you are setup ! 
 
-
-NOTE: The results will be showed on your terminal as well as saved in a .txt file inside the folder OUTPUT
-
-
 In the root folder, just type the command on your terminal
 
-								./run_DNA_RC.sh
+```
+./run.sh
+```
 
-and let the magic do its work !
-
-
-
-
-Kiss kiss, hope you enjoy it !
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**NOTE**: The results will be showed on your terminal as well as saved in a .txt file inside the folder OUTPUT
