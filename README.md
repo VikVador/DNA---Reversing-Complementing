@@ -44,7 +44,13 @@ In the root folder, just type the command on your terminal
 ./run.sh
 ```
 
-**NOTE**: The results will be showed on your terminal as well as saved in a .txt file inside the folder OUTPUT
+**NOTE**: 
+
+- There are 2 examples available, "test_small.txt" and "test_large.txt", in the *input* folder to demonstrate how the program works.
+
+## Acknowledgement
+
+Thank you Chloé for giving me this nice problem to work on ! 
 
 ## License
 
