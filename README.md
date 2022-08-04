@@ -4,7 +4,7 @@
 
 The purpose of this project is to simply reverse and complement DNA sequences in the FASTA format ! What is interesting about this program is the fact that :
 
-- At every step of the process, some piece of information are displayed on the terminal to ensure that you know what is going on.
+- At every step of the process, some piece of information are displayed on the terminal to ensure that you follow what is going on.
 
 - The DNA sequences are displayed using a color coded scheme such that the different nucleotides are easily observable.
 
