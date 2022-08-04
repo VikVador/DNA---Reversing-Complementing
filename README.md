@@ -45,3 +45,19 @@ In the root folder, just type the command on your terminal
 ```
 
 **NOTE**: The results will be showed on your terminal as well as saved in a .txt file inside the folder OUTPUT
+
+## License
+
+Copyright [2022] [Mangeleer Victor]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
