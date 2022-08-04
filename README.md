@@ -50,7 +50,7 @@ In the root folder, just type the command on your terminal
 
 ## Acknowledgement
 
-Thank you Chloé for giving me this nice problem to work on ! 
+Thank you [Chloé](https://www.linkedin.com/in/chloestevenne/) for giving me this nice problem to work on ! 
 
 ## License
 
