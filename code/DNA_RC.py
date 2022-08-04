@@ -40,7 +40,7 @@ def outputFileName(input_fn):
 
 	# Generate outputs name
 	for i in input_fn:
-		outputs_fn.append("output/" + i.replace("input/", ""))
+		outputs_fn.append(i.replace("input/", "output/"))
 
 	return outputs_fn
 
