@@ -1,7 +1,7 @@
 """
 ------------------------------------
 
-	DNA - Reverse & Complementing
+  DNA - Reversing & Complementing
 
 ------------------------------------
 @ Chloé Stévenne    Victor Mangeleer
