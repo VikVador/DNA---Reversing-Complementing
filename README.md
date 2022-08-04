@@ -1,8 +1,18 @@
-#  <img src="https://media.giphy.com/media/3o7TKz2eMXx7dn95FS/giphy.gif" width="50" height="50" /> DNA - Reversing & Complementing (FASTA format - Terminal)
+#  <img src="https://media.giphy.com/media/3o7TKz2eMXx7dn95FS/giphy.gif" width="50" height="50" /> DNA - Reversing & Complementing (FASTA format)
 
----------------------- 
-                                    INTRODUCTION
-----------------------
+## Introduction
+
+The purpose of this project is to simply reverse and complement DNA sequences in the FASTA format ! What is interesting about this program is the fact that :
+
+- At every step of the process, some piece of information are displayed on the terminal to ensure that you know what is going on.
+
+- The DNA sequences are displayed using a color coded scheme such that the different nucleotides are easily observable.
+
+- The input files must simply be placed inside the *input* folder and the outputs of the program will be placed immediately in the *output* folder.
+
+## Illustration
+
+![](/assets/illustration.png)
 
 ---------------------- 
     INSTALLATION
